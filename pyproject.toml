@@ -1,0 +1,11 @@
+[project]
+name = "telemetry-viewer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "plotly>=6.5.2",
+    "polars>=1.38.1",
+    "streamlit>=1.54.0",
+]
